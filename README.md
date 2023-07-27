@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamletsargsyan&label=Profile%20views&color=0e75b6&style=flat" alt="hamletsargsyan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&row=2&column=3"><img src="https://github-profile-trophy.vercel.app/?username=hamletsargsyan&row=2&column=3" alt="hamletsargsyan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamletsargsyan&row=2&column=3" alt="hamletsargsyan" /></a> </p>
 
 - 🔭 I’m currently working on [Adventures](https://github.com/HamletSargsyan/Adventures)
 
