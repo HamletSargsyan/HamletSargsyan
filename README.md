@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamletSargsyan](https://github.com/HamletSargsyan)
 
-- 📫 How to reach me **hamlets849@gmain.com**
+- 📫 How to reach me **https://t.me/HamletSargsyan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
