@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Adventures](https://github.com/HamletSargsyan/Adventures)
 
-- 🌱 I’m currently learning **Python, HTML, CSS**
+- 🌱 I’m currently learning **Python, HTML, CSS, Golang**
 
 - 👯 I’m looking to collaborate on [Adventures](https://github.com/HamletSargsyan/Adventures)
 
@@ -33,3 +33,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamletSargsyan&show_icons=true&theme=gh-light-mode-only)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HamletSargsyan)](https://git.io/streak-stats)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e25eadced78d293531f526?variant=dark)](https://roadmap.sh)
