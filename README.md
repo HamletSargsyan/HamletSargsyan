@@ -35,3 +35,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HamletSargsyan)](https://git.io/streak-stats)
 <br>
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e25eadced78d293531f526?variant=dark)](https://roadmap.sh)
+
+<center><h2>❤️</h2></center>
