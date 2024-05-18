@@ -34,6 +34,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamletSargsyan&show_icons=true&theme=gh-light-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HamletSargsyan)](https://git.io/streak-stats)
 <br>
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e25eadced78d293531f526?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e25eadced78d293531f526?variant=dark)](https://roadmap.sh/u/hamletsargsyan)
 <br>
 [![codewars](https://www.codewars.com/users/HamletSargsyan/badges/large)](https://www.codewars.com/users/HamletSargsyan)
