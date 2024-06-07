@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamletsargsyan&row=2&column=3" alt="hamletsargsyan" /></a> </p>
 
-- 🔭 I’m currently working on [Adventures](https://github.com/HamletSargsyan/Adventures)
+- 🔭 I’m currently working on [Livebot](https://github.com/HamletSargsyan/livebot)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Golang**
+- 🌱 I’m currently learning **Python, HTML, CSS, Golang, Rust, C++**
 
-- 👯 I’m looking to collaborate on [Adventures](https://github.com/HamletSargsyan/Adventures)
+- 👯 I’m looking to collaborate on [Livebot](https://github.com/HamletSargsyan/livebot)
 
-- 🤝 I’m looking for help with [Adventures](https://github.com/HamletSargsyan/Adventures)
+- 🤝 I’m looking for help with [Livebot](https://github.com/HamletSargsyan/livebot)
 
 - 📝 I regularly write articles on [https://github.com/HamletSargsyan](https://github.com/HamletSargsyan)
 
