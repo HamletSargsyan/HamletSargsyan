@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamlet</h1>
-<h3 align="center">I am a beginner programmer from Armenia</h3>
+<h3 align="center">I am a programmer from Armenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamletsargsyan&label=Profile%20views&color=0e75b6&style=flat" alt="hamletsargsyan" /> </p>
 
