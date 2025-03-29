@@ -1,1 +1,1 @@
-NEW ACCOUNT: [@OxM4LL0C](https://github.com/OxM4LL0C)
+**NEW ACCOUNT:** [@0xM4LL0C](https://github.com/0xM4LL0C)
